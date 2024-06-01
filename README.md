@@ -3,9 +3,14 @@
 This project is a simple React application that displays a business card styled box in the center of the screen. The text inside the box reads "Your business card".
 Please check the dedicated Notion page for further instructions on this project.
 
+# Design Decisions
+
+I went for a minimalistic design for the business card, with a simple background gradient, and the traditional structure of a business card with name and position at the top and the contact info in the bottom.
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
+
 - You have installed Node.js and npm. You can download them from [nodejs.org](https://nodejs.org/).
 
 ## Installation
@@ -13,23 +18,26 @@ Before you begin, ensure you have met the following requirements:
 Follow these steps to set up and run the project:
 
 1. **Clone the repository** (if you haven't already):
- ```bash
- git clone <repository-url>
- cd intern-react-challenge
- ```
-2. **Install dependencies:** 
- ```bash
- npm install
+
+```bash
+git clone <repository-url>
+cd intern-react-challenge
 ```
 
-3. **Run the development server:** 
+2. **Install dependencies:**
+
+```bash
+npm install
+```
+
+3. **Run the development server:**
+
 ```bash
  npm start
 ```
 
-4. **Open the app:** 
-Open your browser and navigate to http://localhost:3000 to see the business card styled box in the center of the screen.
-
+4. **Open the app:**
+   Open your browser and navigate to http://localhost:3000 to see the business card styled box in the center of the screen.
 
 ## Project Structure
 
